@@ -1,0 +1,64 @@
+John Doe McSharpSword
+
+Fighter LVL 5 
+
+Race: Human 		 => 	+1 to all ability scores
+Fighting style: Duelist  =>	+2 Dmg to all attacks		(Other option: Defense => +1 AC) 
+Archetype:	Champion =>	Crit on 19
+Background:	Soldier  =>	Nothing important
+
+Speed:		30ft. / Turn
+HP:		10 + 4d10 + 5 * CON modifier
+Hit Dice:	5d10
+Skills:		-Athletics
+		-Acrobatics
+		-Intimidation (From Soldier)
+Proficiencies:	-All Armors, Shields
+		-All Simple + Martial Weapons
+		-STR + CON Saving Throws
+Feats		None, Ability Score Improvement (+1 STR, +1 CON)
+
+Inventory:
+	-Chainmail 	(16 AC)
+	-Shield 	(+2 AC)
+	-Longsword	(1d8 + STR Slashing)(Versatile 1d10)
+	-2 Handaxes 	(1d6 + STR Slashing)(Thrown 20ft. if we have time)
+	-Explorer's set	(Not important)
+
+Actions:
+	-Attack (x2)
+	(The next 2 replace 1 of the attacks if chosen)
+	-Shove 			(Back 10ft. or prone)
+	-Grapple 		(Athl. vs Athl. or Acro. , Enemy grappled if successful)
+	-Hold Action 		(Can only hold attacks for now, check if time) (Warn player this takes their reaction)
+
+	(The 4 Ds of "D"fensive combat)
+	-Drink Potion		(Healing depends on potion tier)
+	-Dodge			(Enemy attacks @ Disadvantage)
+	-Dash			(Movement X 2)
+	-Disengage		(Enemy can't use Opportunity attacks)
+
+	(Can be dropped for simplicity)
+	-One-Hand sword		(Equip Shield, use sword's Normal Damage)
+	-Two-Hand sword		(Unequip Shield, use sword's Versatile Damage)
+
+	-Hide (Stealth Check)(Removed, implimenting stealth is not worth the trouble)
+
+Special Actions:
+	-Action Surge 		(Once per Long Rest, use an extra Action this turn)
+	-Short Rest		(Not available in Combat, rest for an hour and use Hit Dice to heal)
+
+Bonus Actions:
+	-Second Wind		(Once per Short Rest, heal 1d10 + 5(LVL))
+
+Reactions:
+	-Opportunity attack: 	(Attack once Enemy leaving your melee range)
+	-Held Action:		(Can only hold attacks for now, so attacks twice enemy who entered melee range)
+
+Movement:
+	-Base: 			  30ft.
+	-Difficult Terrain:	  +5ft. / Square
+	-Crawling (Prone):	  +5ft. / Square
+	-Get Up (Prone):	  -15ft. (Half of Max Speed)
+	-Dragging Grappled Enemy: Move / 2
+ 
