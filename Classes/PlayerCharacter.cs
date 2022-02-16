@@ -3,9 +3,9 @@ using System.Collections;
 
 [System.Serializable]
 
-public class PlayerCharacter
+public class PlayerCharacter : Mini
 {
-    int Lvl, BaseAC, AC, MaxHP, HP, Speed, MoveLeft, ProfMod, HitDiceSize, HitDiceLeft;
+    int Lvl, BaseAC, AC, Speed, MoveLeft, ProfMod, HitDiceSize, HitDiceLeft;
     int[] AbilityScores, AbilityMods;
     string[] AbilityNames {"STR", "DEX", "CON", "INT", "WIS", "CHA"};
     string Name, Race;
@@ -114,7 +114,7 @@ public class PlayerCharacter
 
         for(int x = 0, x >= 5, x++)
         {
-            boost[x] = baseScores[x] + boost[x];
+            boost[x] += baseScores[x];
         }
         return boost;
     }

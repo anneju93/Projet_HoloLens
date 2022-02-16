@@ -15,7 +15,7 @@ class Fighter : Joueur
 
         //A fighter uses a d10 to as a Hit dice
         HitDiceSize = 10;
-        Parent.GenerateMaxHP(lvl, HitDiceSize);
+        GenerateMaxHP(lvl, HitDiceSize);
 
         Proficiencies.Add("All Armors");
         Proficiencies.Add("Shields");
