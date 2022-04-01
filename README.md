@@ -2,7 +2,6 @@
 
 <img width="128" alt="Dé à 20 faces" src="https://cdn.pixabay.com/photo/2017/08/31/04/01/d20-2699387_960_720.png"><img width="128" alt="D&D logo" src="https://cdn.shopify.com/s/files/1/0057/6408/7896/articles/DD-Logo_720x.jpg?v=1572377159">
 
-
 Bienvenue sur la page de notre projet de session pour le cours de projet d'intégration - phase II. Ici, vous trouverez notre projet complet fait sur Unity, de la documentation et une page d'aide.
  
 ## Pour commencer
