@@ -14,10 +14,10 @@ Cliquez [ici](https://github.com/anneju93/Projet_HoloLens/wiki) !
 Visitez le wiki pour trouver des instructions, des captures d'écran et de la documentation en cas de problème ou si vous avez des questions.
 
 ## Liens vers les différents logiciels utilisés
-<p>
+
 [Unity](https://unity.com/)<br>
 [Visual Studio](https://visualstudio.microsoft.com/)<br>
 [MRTK - Mixed Reality ToolKit](https://github.com/Microsoft/MixedRealityToolkit-Unity)<br>
-</p>
+
 
 
