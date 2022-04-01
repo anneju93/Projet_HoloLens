@@ -7,7 +7,7 @@ Bienvenue sur la page de notre projet de session pour le cours de projet d'inté
 ## Pour commencer
 
 Pour profiter de l'expérience complète de notre jeu immersif, un [Microsoft HoloLens 2](https://www.microsoft.com/fr-ca/hololens) est nécessaire. Cependant, vu le prix élevé d'un tel appareil, il est également
-possible d'essayer notre projet sur votre ordinateur via le fichier exécutable disponible sur ce GitHub.
+possible d'essayer notre projet sur votre ordinateur via l'émulateur du HoloLens disponible [ici](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-the-hololens-emulator).
 
 ## Besoin d'aide ?
 
