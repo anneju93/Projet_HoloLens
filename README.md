@@ -15,10 +15,8 @@ Visitez le wiki pour trouver des instructions, des captures d'écran et de la do
 
 ## Liens vers les différents logiciels utilisés
 
-[Unity](https://unity.com/)
-
-[Visual Studio](https://visualstudio.microsoft.com/)
-
-[MRTK - Mixed Reality ToolKit](https://github.com/Microsoft/MixedRealityToolkit-Unity)
+<p>[Unity](https://unity.com/)<br>
+[Visual Studio](https://visualstudio.microsoft.com/)<br>
+[MRTK - Mixed Reality ToolKit](https://github.com/Microsoft/MixedRealityToolkit-Unity)</p>
 
 
